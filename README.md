@@ -18,7 +18,6 @@ No dia a dia, mexo com:
 
 Se quiser trocar uma ideia ou compartilhar bugs existenciais:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/luci.puccinelli/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/luciana-bonow-puccinelli-66006424a/)
 
 ---
