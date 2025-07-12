@@ -1,20 +1,26 @@
-### Oiee!! Meu nome é Luciana Puccinelli 🤙
+## Olá, eu sou a Luciana 👋 👩‍💻
 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luci.puccinelli/)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciana-bonow-puccinelli-66006424a/)
+Bem-vinda(o) ao meu espaço no GitHub!  
+Aqui você encontra fragmentos do meu dia a dia como desenvolvedora.
 
-![Luciana GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianaPuccinelli&theme=gotham&show_icons=true)
+## Sobre mim
 
-## Tecnologias que mais gosto de usar
+Desenvolvedora fullstack com um carinho grande por **PHP** e **Java**, com  código limpo, testes automatizados e integrações bem feitas.
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</div>
+No dia a dia, mexo com:
+- CakePHP ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+- JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+- Testes unitários
+- Bancos de dados, principalmente **MySQL** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+- Linux ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
-### Sobre mim
-20 anos!
-<br/>
-Fazendo faculdade de engenharia de software - 5° semestre
+## Como falar comigo
+
+Se quiser trocar uma ideia ou compartilhar bugs existenciais:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/luci.puccinelli/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/luciana-bonow-puccinelli-66006424a/)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
