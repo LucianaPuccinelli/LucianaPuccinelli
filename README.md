@@ -9,9 +9,10 @@ Desenvolvedora fullstack com um carinho grande por **PHP** e **Java**, com  cód
 
 No dia a dia, mexo com:
 - CakePHP ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
-- JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+- JavaScript (Vanilla e JQuery) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+- Html e CSS ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 - Testes unitários
-- Bancos de dados, principalmente **MySQL** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+- Bancos de dados, principalmente MySQL ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 - Linux ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 ## Como falar comigo
